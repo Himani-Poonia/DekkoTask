@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DekkoTask</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter name for images</string>
+    <string name="more">More</string>
+    <string name="select_grid_col">Select Grid Columns</string>
+</resources>
